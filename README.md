@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iamrohit0101
-- 👀 I’m interested in Android Development and CP
-- 🌱 I’m currently learning Android Development and Data Structure
-- 💞️ I’m looking to collaborate on Minor project on Android Development
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning Data Structure
+- 💞️ I’m looking to collaborate on Minor project on web dev
 - 📫 How to reach me : rohitpatil0086@gmail.com
 
 <!---
